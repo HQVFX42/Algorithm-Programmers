@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="크레인인형뽑기게임.cpp">
+    <ClCompile Include="완주하지 못한 선수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
