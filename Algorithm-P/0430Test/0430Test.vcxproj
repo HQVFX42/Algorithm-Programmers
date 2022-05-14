@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="표 편집.cpp" />
+    <ClCompile Include="8.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{17d7389b-39e4-47bc-bb48-c123f9936964}</ProjectGuid>
-    <RootNamespace>Lv3</RootNamespace>
+    <ProjectGuid>{7fca1c8f-0c3a-41a3-895e-92031f94aa5c}</ProjectGuid>
+    <RootNamespace>My0430Test</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
