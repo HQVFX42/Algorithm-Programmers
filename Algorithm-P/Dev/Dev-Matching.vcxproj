@@ -19,14 +19,15 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2.cpp" />
+    <ClCompile Include="solution1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7097d340-a70a-4c4d-b744-f06d260f94d3}</ProjectGuid>
-    <RootNamespace>My0529TestNHN</RootNamespace>
+    <ProjectGuid>{a6d02ff4-5a24-4b49-9064-e9e761b0b1e0}</ProjectGuid>
+    <RootNamespace>DevMatching</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Dev</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
